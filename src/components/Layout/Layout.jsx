@@ -19,7 +19,9 @@ const Layout = ({ children, user }) => {
             alt="الكعبة"
             className="w-full max-h-64 object-cover rounded-xl "
           />
-          <div className="flex items-center justify-between"></div>
+          <div className=" mt-4 text-center self-center text-3xl bg-cyan-50 text-primary-950 p-2 rounded-md">
+            دعوات الحاجة هيام
+          </div>
 
           <motion.div
             initial={{ opacity: 0, y: -10 }}
