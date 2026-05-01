@@ -20,7 +20,7 @@ const Layout = ({ children, user }) => {
             className="w-full max-h-64 object-cover rounded-xl "
           />
           <div className=" mt-4 text-center self-center text-3xl bg-cyan-50 text-primary-950 p-2 rounded-md">
-            دعوات الحاجة هيام
+            دعوات الحاجة هوبة
           </div>
 
           <motion.div
